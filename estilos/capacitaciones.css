@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    font-family: cursive;
+    
+}
+h2{
+    text-align: center;
+    font-family: cursive;
+}
+p{
+    text-align: justify;
+    font-size: 15px;
+}
+.capacitacion{
+    display: inline-block;
+    width: 48%;
+    text-align: justify;
+    padding: 6px;
+}
+.galer{
+    display: inline-block;
+    width: 11%;
+    padding: 6px;
+    text-align: center;
+    border: solid;
+}

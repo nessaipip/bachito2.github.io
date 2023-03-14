@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    font-family:cursive;
+    
+}
+h2{
+    text-align: center;
+    font-family:cursive;
+}
+h3{
+    text-align: center;
+    font-family: cursive;
+}
+p{
+    text-align: justify;
+    font-size: 15px;
+}
+.fotoimgparrafo{
+    float: left;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+}
+.foto2imgparrafo{
+    float: right;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+}
+.cooperativa{
+    display: inline-block;
+    width: 48%;
+    text-align: justify;
+    padding: 6px;
+}

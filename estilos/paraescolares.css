@@ -1,0 +1,26 @@
+#titulo{
+    text-align: center;
+    font-family: cursive;
+}
+.subtitulo{
+    text-align: left;
+    font-size: 30px;
+    color: antiquewhite;
+    background-color: burlywood;
+}
+.texto{
+    text-align: justify;
+}
+h1{
+    font-family: cursive;
+}
+h2{
+    font-family: cursive;
+    padding-left: 3%
+}
+.imagen{
+    float: right;
+    padding: 10px;
+    margin: 8px;
+    clear: both;
+}
